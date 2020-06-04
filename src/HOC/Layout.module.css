@@ -1,0 +1,14 @@
+.layout {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid darkcyan;
+}
+
+.layout main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+
+}
