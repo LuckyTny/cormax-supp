@@ -1,4 +1,8 @@
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: rgb(34, 34, 34);
   font-family: 'Press Start 2P', cursive;
 }
