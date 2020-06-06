@@ -13,3 +13,7 @@
     align-items: center
 
 }
+
+.layout p {
+    color: darkcyan;
+}
